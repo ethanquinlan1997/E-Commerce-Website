@@ -1,6 +1,6 @@
 const { Product } = require('../models');
 
-const productData = [
+const productUserData = [
   {
     product_name: 'Plain T-Shirt',
     price: 14.99,
@@ -33,6 +33,6 @@ const productData = [
   },
 ];
 
-const seedProducts = () => Product.bulkCreate(productData);
+const seedProducts = () => Product.bulkCreate(productUserData);
 
 module.exports = seedProducts;
