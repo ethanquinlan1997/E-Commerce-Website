@@ -20,7 +20,7 @@ information from the tables.
 
 ## Recording <a name="recording"></a>
 
-Link for demo : 
+Link for demo : https://drive.google.com/file/d/1zICLmgvM9Kaa5UA7Sq82gSLIiNGP9xk-/view
 
 ## Installation <a name="installation"></a>
 - Clone starter code from repo to your local computer.
